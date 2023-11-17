@@ -1,0 +1,16 @@
+::backdrop {
+    background-color: #888888;
+    opacity: 0.75;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+button:focus-visible {
+    outline: none;
+}
+
+#clr-picker {
+    position: relative;
+}

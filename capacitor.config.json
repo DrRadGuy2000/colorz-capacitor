@@ -1,0 +1,14 @@
+{
+  "appId": "com.uppertechconsulting.colorz",
+  "appName": "Colorz",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
