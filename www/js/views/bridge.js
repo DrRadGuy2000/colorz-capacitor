@@ -1,5 +1,6 @@
 import {LitElement, html} from 'lit';
 import * as Philips from "../api/philips.js";
+import iro from '@jaames/iro';
 
 export class LightList extends LitElement {
     static get properties() {
